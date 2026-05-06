@@ -6,4 +6,3 @@ requests
 lxml
 html5lib
 pdfplumber
-PyMuPDF
