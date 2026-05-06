@@ -1,0 +1,9 @@
+selenium
+webdriver-manager
+python-dotenv
+pandas
+requests
+lxml
+html5lib
+pdfplumber
+PyMuPDF
